@@ -54,4 +54,4 @@ The six subnets are distributed across two Availability Zones.
 
 ## 7. Architecture Diagram
 
-Architecture diagram will be added after completing the AWS infrastructure setup.
+Final output has been added in the screenshot file
